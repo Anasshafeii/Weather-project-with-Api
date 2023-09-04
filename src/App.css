@@ -1,0 +1,9 @@
+@font-face {
+  font-family: Rubik;
+  src: url(../public/Fonts/Rubik-Light.ttf);
+  weight: 500;
+}
+
+body {
+  background-color: #0052d0 !important;
+}
